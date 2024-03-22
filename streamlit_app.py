@@ -58,4 +58,4 @@ if uploaded_file is not None:
         }}
     </style>
     <div class="tuberculosis_count">Number of Tuberculosis Detections: {tuberculosis_count}</div>
-    """, unsafe_allow_html=True
+    """, unsafe_allow_html=True)
